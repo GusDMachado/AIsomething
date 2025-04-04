@@ -1,3 +1,2 @@
 # AIsomething
-Will make something with AI
-How hard can it be
+Will make something with AI - how hard can it be
