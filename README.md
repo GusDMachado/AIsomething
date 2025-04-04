@@ -1,4 +1,4 @@
-# Resume Aí
+# Resume AI
 
 Step by step
 
